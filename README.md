@@ -2,7 +2,7 @@
 - I’m interested in coding with C++, Javascript, HTML
 - I’m currently diving deep into graphic programming
 - How to reach me: Here or on Stack Overflow as Dmitry Babich
-- Pronouns: @dmitrycello (username)
+- Pronouns: He/Him/His
 - Fun fact: I am coding for fun, at least for now...
 <!---
 dmitrycello/dmitrycello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
